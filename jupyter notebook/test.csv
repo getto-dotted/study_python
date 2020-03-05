@@ -1,0 +1,6 @@
+,fn,ln,age,sex,prtest,potest,addr
+a,jason,miller,42,m,4.0,24.0,seoul
+b,,,24,f,,,incheon
+c,tina,all,46,f,,,gwangju
+d,jake,miler,46,m,2.0,62.0,pusan
+e,amy,coozer,32,f,3.0,70.0,dajeon
