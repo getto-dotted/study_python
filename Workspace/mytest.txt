@@ -1,5 +1,0 @@
-'hello python',
-'python programming',
-'python world',
-'bigdata',
-'artificial intelligence'

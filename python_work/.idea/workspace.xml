@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f96e95e-b11d-4dea-94d8-02575cfd22ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y0GtY7rCiFVmfXmJX4o8TJryrV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python_work" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dd">
+    <configuration name="dd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson15 pyqt6 02.25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson15 pyqt6 02.25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson15 pyqt7 02.25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson15 pyqt7 02.25.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson16.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson17" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python_work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson17.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dd" />
+        <item itemvalue="Python.lesson17" />
+        <item itemvalue="Python.lesson16" />
+        <item itemvalue="Python.lesson15 pyqt7 02.25" />
+        <item itemvalue="Python.lesson15 pyqt6 02.25" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f96e95e-b11d-4dea-94d8-02575cfd22ea" name="Default Changelist" comment="" />
+      <created>1582072313720</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582072313720</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="933" y="202" key="#aaa" timestamp="1582098051362">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="933" y="202" key="#aaa/0.0.2560.1386@0.0.2560.1386" timestamp="1582098051362" />
+    <state x="956" y="336" key="FileChooserDialogImpl" timestamp="1582084800743">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="956" y="336" key="FileChooserDialogImpl/0.0.2560.1386@0.0.2560.1386" timestamp="1582084800743" />
+    <state width="2529" height="363" key="GridCell.Tab.0.bottom" timestamp="1582790599607">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="363" key="GridCell.Tab.0.bottom/0.0.2560.1386@0.0.2560.1386" timestamp="1582790599607" />
+    <state width="2529" height="363" key="GridCell.Tab.0.center" timestamp="1582790599607">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="363" key="GridCell.Tab.0.center/0.0.2560.1386@0.0.2560.1386" timestamp="1582790599607" />
+    <state width="2529" height="363" key="GridCell.Tab.0.left" timestamp="1582790599607">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="363" key="GridCell.Tab.0.left/0.0.2560.1386@0.0.2560.1386" timestamp="1582790599607" />
+    <state width="2529" height="363" key="GridCell.Tab.0.right" timestamp="1582790599607">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="363" key="GridCell.Tab.0.right/0.0.2560.1386@0.0.2560.1386" timestamp="1582790599607" />
+    <state width="2529" height="449" key="GridCell.Tab.1.bottom" timestamp="1582275020316">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="449" key="GridCell.Tab.1.bottom/0.0.2560.1386@0.0.2560.1386" timestamp="1582275020316" />
+    <state width="2529" height="449" key="GridCell.Tab.1.center" timestamp="1582275020316">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="449" key="GridCell.Tab.1.center/0.0.2560.1386@0.0.2560.1386" timestamp="1582275020316" />
+    <state width="2529" height="449" key="GridCell.Tab.1.left" timestamp="1582275020316">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="449" key="GridCell.Tab.1.left/0.0.2560.1386@0.0.2560.1386" timestamp="1582275020316" />
+    <state width="2529" height="449" key="GridCell.Tab.1.right" timestamp="1582275020316">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state width="2529" height="449" key="GridCell.Tab.1.right/0.0.2560.1386@0.0.2560.1386" timestamp="1582275020316" />
+    <state x="666" y="8" key="SettingsEditor" timestamp="1582609008096">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="666" y="8" key="SettingsEditor/0.0.2560.1386@0.0.2560.1386" timestamp="1582609008096" />
+    <state x="897" y="472" key="com.intellij.ide.util.TipDialog" timestamp="1582156905662">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="897" y="472" key="com.intellij.ide.util.TipDialog/0.0.2560.1386@0.0.2560.1386" timestamp="1582156905662" />
+    <state x="985" y="537" width="1094" height="437" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1582072595052">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="985" y="537" width="1094" height="437" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.2560.1386@0.0.2560.1386" timestamp="1582072595052" />
+    <state x="773" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1582079104534">
+      <screen x="0" y="0" width="2560" height="1386" />
+    </state>
+    <state x="773" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.2560.1386@0.0.2560.1386" timestamp="1582079104534" />
+  </component>
+</project>
